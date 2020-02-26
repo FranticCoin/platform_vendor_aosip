@@ -2,7 +2,6 @@
 PRODUCT_PACKAGES += \
     OmniRecord \
     OmniStyle \
-    PixelLiveWallpaperPrebuilt \
     ThemePicker \
     AOSiPOverlayStub
 
